@@ -14,12 +14,10 @@ Para executar o aplicativo localmente:
 4. Execute 'flutter run' para iniciar o aplicativo.
 
 # Screenshots
-![Simulator Screenshot - iPhone 15 Pro Max - 1](https://github.com/GabrielChavesM/App-Agenda-Flutter/assets/123601705/91f7460e-f55e-4197-b938-10b061ff3737)
-![Simulator Screenshot - iPhone 15 Pro Max - 2](https://github.com/GabrielChavesM/App-Agenda-Flutter/assets/123601705/1d7d340e-0c31-48b4-a125-7a9cca80177b)
-![Simulator Screenshot - iPhone 15 Pro Max - 3](https://github.com/GabrielChavesM/App-Agenda-Flutter/assets/123601705/5b5a52e2-dc32-4c38-949a-9f6371c37e16)
-![Simulator Screenshot - iPhone 15 Pro Max - 4](https://github.com/GabrielChavesM/App-Agenda-Flutter/assets/123601705/d9751f13-293d-4421-96c6-7ba60c383ecf)
-![Simulator Screenshot - iPhone 15 Pro Max - 5](https://github.com/GabrielChavesM/App-Agenda-Flutter/assets/123601705/3ca04c93-7c87-43f0-ad4c-17f358c92ba7)
-![Simulator Screenshot - iPhone 15 Pro Max - 6](https://github.com/GabrielChavesM/App-Agenda-Flutter/assets/123601705/c800822c-7a3f-40d6-95d9-ab374563f060)
+![Simulator Screenshot - iPhone 15 Pro Max - 1](https://github.com/GabrielChavesM/App-Agenda-Flutter/assets/123601705/c81f92e9-bb6d-411f-8b70-cc112718b010) ![Simulator Screenshot - iPhone 15 Pro Max - 2](https://github.com/GabrielChavesM/App-Agenda-Flutter/assets/123601705/63642bca-85ae-40c9-9d3e-c3fa8cd624b4) ![Simulator Screenshot - iPhone 15 Pro Max - 3](https://github.com/GabrielChavesM/App-Agenda-Flutter/assets/123601705/9e2a1d52-169d-4205-8fa2-62ce1e1b957f)
+![Simulator Screenshot - iPhone 15 Pro Max - 4](https://github.com/GabrielChavesM/App-Agenda-Flutter/assets/123601705/4ebd4984-4042-4b14-8f84-e93ecdb19322) ![Simulator Screenshot - iPhone 15 Pro Max - 5](https://github.com/GabrielChavesM/App-Agenda-Flutter/assets/123601705/2053e139-5ca8-4e69-9f18-98f95c7d7789) ![Simulator Screenshot - iPhone 15 Pro Max - 6](https://github.com/GabrielChavesM/App-Agenda-Flutter/assets/123601705/15bbea52-fdef-4bd1-a4a9-09b1fee5f344)
+
+
 
 # Utilização
 1. Inicie o aplicativo.
@@ -29,7 +27,7 @@ Para executar o aplicativo localmente:
 
 # Dependências
 - table_calendar: Usado para a interface do calendário.
-- flutter_localizations: Fornece suporte de localização.
+- flutter_localizations: Fornece suporte de alteração de idioma e internacionalização da App.
 
 # Contribuição
 Contribuições são bem-vindas! Se você gostaria de contribuir com este projeto, siga estas etapas:
