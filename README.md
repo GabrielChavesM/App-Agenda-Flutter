@@ -2,16 +2,16 @@
 Este aplicativo Flutter permite aos usuários gerenciar sua programação adicionando, editando e excluindo eventos em um calendário.
 
 # Features
-Visualização de calendário: visualize eventos em uma interface de calendário.
-Gerenciamento de eventos: adicione, edite e exclua eventos com detalhes como título, hora e local.
-Eventos de vários dias: suporte para eventos de vários dias.
+- Visualização de calendário: visualize eventos em uma interface de calendário.
+- Gerenciamento de eventos: adicione, edite e exclua eventos com detalhes como título, hora e local.
+- Eventos de vários dias: suporte para eventos de vários dias.
 
 # Instalação
 Para executar o aplicativo localmente:
 1. Clone este repositório.
 2. Certifique-se de ter o Flutter instalado.
-3. Execute flutter pub get para instalar dependências.
-4. Execute flutter run para iniciar o aplicativo.
+3. Execute 'flutter pub get' para instalar dependências.
+4. Execute 'flutter run' para iniciar o aplicativo.
 
 # Screenshots
 ![Simulator Screenshot - iPhone 15 Pro Max - 2023-12-07 at 19 46 03](https://github.com/GabrielChavesM/App-Agenda-Flutter/assets/123601705/a891f1b1-512a-4ce0-9f00-ffc21879f0e3)
@@ -28,8 +28,8 @@ Para executar o aplicativo localmente:
 4. Edite ou exclua eventos tocando neles na visualização de lista.
 
 # Dependências
-table_calendar: Usado para a interface do calendário.
-flutter_localizations: Fornece suporte de localização.
+- table_calendar: Usado para a interface do calendário.
+- flutter_localizations: Fornece suporte de localização.
 
 # Contribuição
 Contribuições são bem-vindas! Se você gostaria de contribuir com este projeto, siga estas etapas:
