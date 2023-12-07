@@ -40,3 +40,5 @@ Contribuições são bem-vindas! Se você gostaria de contribuir com este projet
 # Licença
 Este projeto está licenciado sob a licença MIT - consulte o arquivo LICENSE para obter detalhes.
 
+# Info Autor
+![image]({https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white}) - gabrielchavesmarques@hotmail.com
