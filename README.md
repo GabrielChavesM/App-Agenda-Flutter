@@ -41,4 +41,5 @@ Contribuições são bem-vindas! Se você gostaria de contribuir com este projet
 Este projeto está licenciado sob a licença MIT - consulte o arquivo LICENSE para obter detalhes.
 
 # Info Autor
-![image]({https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white}) - gabrielchavesmarques@hotmail.com
+ ![mail-logo](https://github.com/GabrielChavesM/App-Agenda-Flutter/assets/123601705/59dff89b-5fd3-472b-81b3-6d65739f9861) Outlook:
+ - gabrielchavesmarques@hotmail.com
