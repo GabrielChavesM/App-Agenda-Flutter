@@ -14,12 +14,12 @@ Para executar o aplicativo localmente:
 4. Execute 'flutter run' para iniciar o aplicativo.
 
 # Screenshots
-![Simulator Screenshot - iPhone 15 Pro Max - 2023-12-07 at 19 46 03](https://github.com/GabrielChavesM/App-Agenda-Flutter/assets/123601705/a891f1b1-512a-4ce0-9f00-ffc21879f0e3)
-![Simulator Screenshot - iPhone 15 Pro Max - 2023-12-07 at 19 47 08](https://github.com/GabrielChavesM/App-Agenda-Flutter/assets/123601705/c0772b27-9dc7-49c4-bfae-ae9561758711)
-![Simulator Screenshot - iPhone 15 Pro Max - 2023-12-07 at 19 47 24](https://github.com/GabrielChavesM/App-Agenda-Flutter/assets/123601705/52cc5650-cb84-47dd-92e7-36b7bafb60df)
-![Simulator Screenshot - iPhone 15 Pro Max - 2023-12-07 at 19 47 36](https://github.com/GabrielChavesM/App-Agenda-Flutter/assets/123601705/b793531b-2fb5-45d0-b93b-4576c37035da)
-![Simulator Screenshot - iPhone 15 Pro Max - 2023-12-07 at 19 48 13](https://github.com/GabrielChavesM/App-Agenda-Flutter/assets/123601705/aa3f9783-8a7d-4d37-afb3-30634ea8ad6f)
-![Simulator Screenshot - iPhone 15 Pro Max - 2023-12-07 at 19 48 18](https://github.com/GabrielChavesM/App-Agenda-Flutter/assets/123601705/843d0c40-6bc4-40e2-b3a1-853aca162b76)
+![Simulator Screenshot - iPhone 15 Pro Max - 1](https://github.com/GabrielChavesM/App-Agenda-Flutter/assets/123601705/91f7460e-f55e-4197-b938-10b061ff3737)
+![Simulator Screenshot - iPhone 15 Pro Max - 2](https://github.com/GabrielChavesM/App-Agenda-Flutter/assets/123601705/1d7d340e-0c31-48b4-a125-7a9cca80177b)
+![Simulator Screenshot - iPhone 15 Pro Max - 3](https://github.com/GabrielChavesM/App-Agenda-Flutter/assets/123601705/5b5a52e2-dc32-4c38-949a-9f6371c37e16)
+![Simulator Screenshot - iPhone 15 Pro Max - 4](https://github.com/GabrielChavesM/App-Agenda-Flutter/assets/123601705/d9751f13-293d-4421-96c6-7ba60c383ecf)
+![Simulator Screenshot - iPhone 15 Pro Max - 5](https://github.com/GabrielChavesM/App-Agenda-Flutter/assets/123601705/3ca04c93-7c87-43f0-ad4c-17f358c92ba7)
+![Simulator Screenshot - iPhone 15 Pro Max - 6](https://github.com/GabrielChavesM/App-Agenda-Flutter/assets/123601705/c800822c-7a3f-40d6-95d9-ab374563f060)
 
 # Utilização
 1. Inicie o aplicativo.
