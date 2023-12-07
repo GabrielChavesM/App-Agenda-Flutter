@@ -140,7 +140,7 @@ class _TimePlannerScreenState extends State<TimePlannerScreen> {
             focusedDay: _focusedDay,
             calendarFormat: _calendarFormat,
             selectedDayPredicate: (day) {
-              return isSameDay(_selectedDay, (day) as DateTime?); // Added null check for day
+              return isSameDay(_selectedDay, (day) as DateTime?);
             },
             eventLoader: (day) {
               return _eventsByDay[day] ?? [];
@@ -500,7 +500,7 @@ class _EditEventScreenState extends State<EditEventScreen> {
   late TextEditingController titleController;
   late DateTime selectedStartTime;
   late DateTime selectedEndTime;
-  late String location; // Initialize location
+  late String location;
 
   @override
   void initState() {
@@ -508,7 +508,7 @@ class _EditEventScreenState extends State<EditEventScreen> {
     titleController = TextEditingController(text: widget.event.title);
     selectedStartTime = widget.event.startTime;
     selectedEndTime = widget.event.endTime;
-    location = widget.event.location; // Set the initial location
+    location = widget.event.location;
   }
 
   @override
